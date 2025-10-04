@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "82286594524",
+    "project_id": "carggyapp",
+    "storage_bucket": "carggyapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82286594524:android:23ee5174ce16ae0dca2719",
+        "android_client_info": {
+          "package_name": "com.example.carggyappassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT03IoGUVM6PYgUH6wY0JE2C6Bxxm75Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
